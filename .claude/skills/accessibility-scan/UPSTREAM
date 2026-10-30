@@ -1,0 +1,3 @@
+repo: https://github.com/AccessLint/skills
+path: plugins/accesslint/skills/accessibility-scan
+commit: 2e9d7336678302d0bc08848e92542560295b34d3
